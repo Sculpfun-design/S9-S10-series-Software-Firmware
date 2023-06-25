@@ -1,5 +1,7 @@
 # S9-S10-series-Software-Firmware
 
+![图片1](https://github.com/Sculpfun-design/S9-S10-series-Software-Firmware/assets/135011582/b0416c5f-a161-40eb-88f7-9a56c2813cec)
+
 ## Step.1 Download the current firmware
 
 To download the current firmware, you can use git or download a file in. zip format. After downloading, the. zip format requires additional decompression into a separate folder.
