@@ -1,7 +1,7 @@
 #ifndef __mks_flame_h__
 #define __mks_flame_h__
 
-#include "mks_draw_lvgl.h"
+#include "MKS_draw_lvgl.h"
 
 #define FLAME_DELAY_TIME      1000  // 1s
 

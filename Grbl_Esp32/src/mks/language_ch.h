@@ -1,7 +1,7 @@
 #ifndef __language_ch_h
 #define __language_ch_h
 
-#include "mks_draw_lvgl.h"
+#include "MKS_draw_lvgl.h"
 
 /* 公共 */
 #define BACK_CH                     "返回"

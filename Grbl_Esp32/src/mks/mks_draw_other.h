@@ -1,7 +1,7 @@
 #ifndef __mks_draw_other_h
 #define __mks_draw_other_h
 
-#include "mks_draw_lvgl.h"
+#include "MKS_draw_lvgl.h"
 
 typedef struct {
 
